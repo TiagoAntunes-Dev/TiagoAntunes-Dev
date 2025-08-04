@@ -8,7 +8,7 @@
 🎓 Estudante de Sistemas para Internet no Senac  
 💻 Desenvolvedor Front-end em formação  
 🚀 Apaixonado por tecnologia, código e design  
-🌍 Localizado em São Bernardo do Campo, SP
+🌍 Localizado em Santo Andre, SP
 
 ---
 
