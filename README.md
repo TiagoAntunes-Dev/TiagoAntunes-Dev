@@ -1,40 +1,36 @@
-## Hi there 👋
+<h1 align="center">Lucas Corrêa</h1>
 
-<!--
-**TiagoAntunes-Dev/TiagoAntunes-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 👋 Olá, eu sou o Tiago Antunes
-
-🎓 Estudante de Sistemas para Internet no Senac  
-💻 Desenvolvedor Front-end em formação  
-🚀 Apaixonado por tecnologia, código e design  
-🌍 Localizado em Santo Andre, SP
+<p align="center">
+  Desenvolvedor Full Stack · Professor de TI · Especialista em Produto Digital
+</p>
 
 ---
 
-## Tecnologias que estou aprendendo
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- Git  
-- Node.js  
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ---
 
-## Sobre mim
+## Sobre
 
-- 📚 Sempre buscando aprender e evoluir  
-- 🧠 Gosto de resolver problemas e desafios  
-- 🎮 Curto jogos, leitura e explorar novas tecnologias
+- Atuação em desenvolvimento full stack com JavaScript e TypeScript
+- Professor de Tecnologia no SENAI e SENAC; criador do canal Professor Corrêa
+- Especialista em acessibilidade, UI/UX, clean code e liderança de produtos digitais
+- Pós-graduação em Engenharia de Software e Digital Product Leadership
+- Experiência em automação de processos e integração de sistemas utilizando Python
 
----
+## Projetos em destaque
+
+- [Toque AI](https://toqueai.com.br/) – Plataforma de QR Code para identificação e gestão de pets, pessoas e objetos
+- [Suporte de Domingo](https://suportededomingo.com.br/) – Soluções digitais e agendamento personalizado
+- [Code Trouble](https://codetrouble.com.br) – Comunidade aberta para desenvolvedores e troca de conhecimento
 
 ## Contato
 
-- 📧 E-mail: tiagozaped@gmail.com  
-- Telefone: 1197032-7507
+- [LinkedIn](https://www.linkedin.com/in/lucascorreaa/)
+- [Suporte de Domingo](https://suportededomingo.com.br/)
+- [Portfólio](https://professorcorrea.com.br/)
+- [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)
 
 ---
 
-> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
+> Educar é tornar o saber algo com voz, sentido e sentimento.
