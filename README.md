@@ -26,7 +26,7 @@
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lucascorreaa/)
+- [LinkedIn] https://www.linkedin.com/in/tiago-antunes-paz-de-oliveira-174687254/
 - E-mail: tiagozaped@gmail.com
 - [Portfólio] *(Portfólio em construção)*
 - [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)
