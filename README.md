@@ -5,18 +5,15 @@
 
 <h3 align="center">Desenvolvedor Web em Formação | Estudante no Senac</h3>
 
-<p align="center">
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
-    <img align="center" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="SEU_LINK_DO_INSTAGRAM" target="_blank">
-    <img align="center" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img align="center" alt="Gmail" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" />
-  </a>
-</p>
+### 👨‍💻 Sobre mim
 
+- 🔭 Trabalhando no desenvolvimento de um **projeto de e-commerce (Loja online de doces)**.
+- 🌱 Focando meus estudos atuais no ecossistema **Angular, TypeScript e Java**.
+- 🎓 Cursando **Sistemas para a Internet no Senac**.
+- 💡 Apaixonado por desenvolvimento Web, arquitetura de computadores e redes.
+- ⚽ Fora do código, sempre acompanhando um bom futebol.
+
+---
 ---
 
 ### 💻 Minhas Linguagens e Ferramentas
