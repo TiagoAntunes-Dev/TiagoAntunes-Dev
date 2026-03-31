@@ -35,7 +35,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=TiagoAntunes-Dev&theme=onedark&no-bg=true&margin-w=15" alt="Troféus do GitHub" />
-    [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoAntunes-Deviuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>
 
