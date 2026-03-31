@@ -1,55 +1,70 @@
-<h1 align="center">Olá, eu sou o Tiago! 👋</h1>
+<h1 align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> 
+  Olá, eu sou o Tiago!
+</h1>
 
-<h3 align="center">Estudante de Sistemas para a Internet no Senac | Desenvolvedor Web em Formação</h3>
+<h3 align="center">Desenvolvedor Web em Formação | Estudante no Senac</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="Contador de Visitas" /> 
+<p align="center">
+  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
+    <img align="center" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="SEU_LINK_DO_INSTAGRAM" target="_blank">
+    <img align="center" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img align="center" alt="Gmail" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 💻 Minhas Linguagens e Ferramentas
 
-- 🔭 Trabalhando no desenvolvimento de um **projeto de e-commerce (loja online de doces)**.
-- 🌱 Focando meus estudos atuais no ecossistema **Angular, TypeScript e Java**.
-- 🎓 Cursando **Sistemas para a Internet no Senac**.
-- 💡 Apaixonado por desenvolvimento Web, arquitetura de computadores e redes.
-- ⚽ Fora do código, sempre acompanhando um bom futebol.
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
 ---
 
-### 🛠️ Minhas Habilidades (Skills)
-
-**Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-**Backend & Banco de Dados:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Ferramentas & Infraestrutura:**
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+### 🏆 Troféus do GitHub
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_AQUI&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Troféus" />
+  </a>
+</div>
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub (Add-ons)
+### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="Estatísticas do Tiago" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&theme=dark&show_icons=true&count_private=true" alt="Estatísticas Gerais" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=dark&layout=compact&langs_count=6" alt="Linguagens Mais Usadas" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Top Linguagens" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dark&hide_border=false" alt="Dias Seguidos Codando" />
 </p>
+
+---
+
+### 🐍 Contribuições (Snake)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=radical" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg" alt="Snake Graph">
+</p>
+
+---
+
+### 😜 Para descontrair:
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
 ---
