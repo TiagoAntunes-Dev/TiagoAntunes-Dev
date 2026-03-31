@@ -33,7 +33,7 @@
 ### 🏆 Troféus do GitHub
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_AQUI&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Troféus" />
+    <img src="https://github-profile-trophy.vercel.app/?username=TiagoAntunes-Dev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Troféus" />
   </a>
 </div>
 
@@ -42,18 +42,18 @@
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&theme=dark&show_icons=true&count_private=true" alt="Estatísticas Gerais" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=dark&layout=compact&langs_count=6" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoAntunes-Dev&theme=dark&show_icons=true&count_private=true" alt="Estatísticas Gerais" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoAntunes-Dev&theme=dark&layout=compact&langs_count=6" alt="Linguagens Mais Usadas" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dark&hide_border=false" alt="Dias Seguidos Codando" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoAntunes-Dev&theme=dark&hide_border=false" alt="Dias Seguidos Codando" />
 </p>
 
 ---
 
 ### 🐍 Contribuições (Snake)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg" alt="Snake Graph">
+  <img src="https://raw.githubusercontent.com/TiagoAntunes-Dev/TiagoAntunes-Dev/output/github-contribution-grid-snake.svg" alt="Snake Graph">
 </p>
 
 ---
