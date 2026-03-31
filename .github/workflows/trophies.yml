@@ -1,0 +1,29 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    # Roda automaticamente a cada 24 horas
+    - cron: "0 0 * * *"
+  
+  # Permite que você rode manualmente igual a cobrinha
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: TiagoAntunes-Dev
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Atualiza os troféus do GitHub"
+          file_pattern: 'trophy.svg'
