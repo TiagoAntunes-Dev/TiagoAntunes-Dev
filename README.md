@@ -112,14 +112,12 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
----
 
 <!--END_SECTION:waka-->
 
 <div align="center">
   
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
+### Mostre seu ❤️ deixando uma 🌟 nos meus [repositórios](https://github.com/TiagoAntunes-Dev?tab=repositories)!
 
 </div>
 
