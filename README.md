@@ -17,8 +17,6 @@
 
 ### 💻 Minhas Linguagens e Ferramentas
 
-### 💻 Minhas Linguagens e Ferramentas
-
 <table>
   <tr>
     <!-- COLUNA ESQUERDA (BADGES) -->
