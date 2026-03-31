@@ -71,10 +71,6 @@
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TiagoAntunes-Dev&theme=dark&show_icons=true&count_private=true&v=1" alt="Estatísticas Gerais" />
-</div>
-
 <br>
 
 <div align="center">
