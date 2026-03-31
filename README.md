@@ -44,7 +44,6 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=TiagoAntunes-Dev&theme=dark&show_icons=true&count_private=true&v=1" alt="Estatísticas Gerais" />
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
