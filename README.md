@@ -54,7 +54,6 @@
 </div>
 
 ---
----
 
 ### 🐍 Contribuições (Snake)
 <p align="center">
