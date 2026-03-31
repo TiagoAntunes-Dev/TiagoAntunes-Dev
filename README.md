@@ -114,3 +114,12 @@
 </div>
 ---
 
+<!--END_SECTION:waka-->
+
+<div align="center">
+  
+
+### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
+
+</div>
+
