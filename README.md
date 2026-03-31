@@ -62,6 +62,7 @@
 
 ### 🏆 Meus Troféus do GitHub
 
+<h1></h1>
 <p align="center">
   <img src="./trophy.svg" alt="Troféus do GitHub" />
 </p>
@@ -111,6 +112,8 @@
 </div>
 
 <!--END_SECTION:waka-->
+
+
 
 <div align="center">
   
