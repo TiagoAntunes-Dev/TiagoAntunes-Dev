@@ -30,13 +30,13 @@
 
 ---
 
-### 🏆 Troféus do GitHub
+### 🏆 Meus Troféus do GitHub
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TiagoAntunes-Dev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&v=1" alt="Troféus" />
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-bg=true&margin-w=15" alt="Troféus do GitHub" />
   </a>
-</div>
+</p>
 
 ---
 
