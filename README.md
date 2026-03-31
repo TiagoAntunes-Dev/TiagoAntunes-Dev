@@ -52,6 +52,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoAntunes-Dev&theme=dark&hide_border=false" alt="Dias Seguidos Codando" />
 </div>
+
+---
 ---
 
 ### 🐍 Contribuições (Snake)
