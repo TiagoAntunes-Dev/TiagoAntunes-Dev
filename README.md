@@ -54,10 +54,8 @@
 </div>
 
   </td>
-
-    <!-- COLUNA DIREITA (IMAGEM) -->
     <td align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+      <img src="./Social%20Network.jpg" width="380px" alt="Cena do filme A Rede Social">
     </td>
   </tr>
 </table>
