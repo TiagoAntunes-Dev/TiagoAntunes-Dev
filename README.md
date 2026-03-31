@@ -101,16 +101,16 @@
 
 ### 📫 Como me encontrar
 
-<p align="left">
+<div align="center">
   <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
   <a href="mailto:seu-email@exemplo.com" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="E-mail" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  
   <a href="https://wa.me/55SEUDDDNUMERO" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="30" width="40" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-</p>
+</div>
+---
+
