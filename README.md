@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> 
-  Olá, eu sou o Tiago!
+  Olá, eu sou o Tiago Antunes!
 </h1>
 
 <h3 align="center">Desenvolvedor Web em Formação | Estudante no Senac</h3>
@@ -13,7 +13,6 @@
 - 💡 Apaixonado por desenvolvimento Web, arquitetura de computadores e redes.
 - ⚽ Fora do código, sempre acompanhando um bom futebol.
 
----
 ---
 
 ### 💻 Minhas Linguagens e Ferramentas
