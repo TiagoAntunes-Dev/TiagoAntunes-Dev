@@ -62,6 +62,9 @@
 
 ### 🏆 Meus Troféus do GitHub
 
+<p align="center">
+  <img src="./trophy.svg" alt="Troféus do GitHub" />
+</p>
 
 ---
 
