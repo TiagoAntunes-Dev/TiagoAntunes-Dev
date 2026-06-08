@@ -13,6 +13,8 @@
 - 💡 Apaixonado por desenvolvimento Web, arquitetura de computadores e redes.
 - ⚽ Fora do código, sempre acompanhando um bom futebol.
 
+[![SukiDoces](https://img.shields.io/badge/SukiDoces_(In_Progress)-e92290?style=for-the-badge&logo=Vercel&logoColor=white)](https://sukidoces.vercel.app/)
+
 ---
 
 ### 💻 Minhas Linguagens e Ferramentas
