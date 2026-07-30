@@ -83,7 +83,7 @@
       <p>E-commerce full stack para uma loja de doces. Frontend em Angular, backend em Node.js/Express com Prisma ORM e MySQL, deploy distribuído (Vercel + Render + Aiven).</p>
       <b>Stack:</b> Angular · Node.js · Express · Prisma · MySQL
       <br>
-      '
+  <h>
     </td>
     <td width="50%">
       <h4>🎬 Movie Watchlist API</h4>
