@@ -3,14 +3,15 @@
   Olá, eu sou o Tiago Antunes!
 </h1>
 
-<h3 align="center">Desenvolvedor Web em Formação | Estudante no Senac</h3>
+<h3 align="center">Desenvolvedor Full Stack em Formação | Estudante no Senac</h3>
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Trabalhando no desenvolvimento de um **projeto de e-commerce (Loja online de doces)**.
-- 🌱 Focando meus estudos atuais no ecossistema **Angular, TypeScript e Java**.
-- 🎓 Cursando **Sistemas para a Internet no Senac**.
-- 💡 Apaixonado por desenvolvimento Web, arquitetura de computadores e redes.
+- 🔭 Trabalhando no desenvolvimento de um **projeto de e-commerce (Loja online de doces)** e de uma **API REST para gerenciamento de filmes e watchlists**.
+- 🌱 Aprofundando meus estudos em **Node.js, Express, Prisma ORM e arquitetura de APIs REST** — com foco em autenticação segura (JWT), validação de dados (Zod) e modelagem de banco relacional (PostgreSQL).
+- 🎨 No frontend, sigo evoluindo com **Angular e TypeScript**, explorando componentes standalone e boas práticas de arquitetura.
+- 🎓 Cursando **Tecnologia em Sistemas para a Internet no Senac**.
+- 💡 Apaixonado por desenvolvimento Web, arquitetura de software e redes de computadores.
 - ⚽ Fora do código, sempre acompanhando um bom futebol.
 
 <div align="center">
@@ -35,19 +36,23 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 
-#### 🚀 Frameworks
+#### 🚀 Frameworks & Runtime
 
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 
-#### 🗄️ Bancos de Dados
+#### 🔐 Validação & Autenticação
+
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+
+#### 🗄️ Bancos de Dados & ORM
 <div>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"        alt="Mongoose">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
 #### 🛠️ Ferramentas & Editores
@@ -62,6 +67,27 @@
   </td>
     <td align="center">
       <img src="./Social%20Network.jpg" width="380px" alt="Cena do filme A Rede Social">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🍬 Suki Doces</h4>
+      <p>E-commerce full stack para uma loja de doces. Frontend em Angular, backend em Node.js/Express com Prisma ORM e MySQL, deploy distribuído (Vercel + Render + Aiven).</p>
+      <b>Stack:</b> Angular · Node.js · Express · Prisma · MySQL
+      <br>
+      <a href="https://sukidoces.vercel.app/">🔗 Ver projeto</a>
+    </td>
+    <td width="50%">
+      <h4>🎬 Movie Watchlist API</h4>
+      <p>API REST para gerenciamento de catálogo de filmes e listas de interesse pessoais. Autenticação JWT via cookies httpOnly, validação de payloads com Zod, banco PostgreSQL modelado com Prisma.</p>
+      <b>Stack:</b> Node.js · Express · Prisma · PostgreSQL · Zod · JWT
     </td>
   </tr>
 </table>
@@ -106,7 +132,7 @@
   <a href="https://www.linkedin.com/in/tiago-antunes-paz-de-oliveira-174687254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="tiagoantunes1974@gmail.com" target="_blank">
+  <a href="mailto:tiagoantunes1974@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://wa.me/5511970327507" target="_blank">
@@ -116,11 +142,4 @@
 
 <!--END_SECTION:waka-->
 
-
-
 <div align="center">
-  
-### Mostre seu ❤️ deixando uma 🌟 nos meus [repositórios](https://github.com/TiagoAntunes-Dev?tab=repositories)!
-
-</div>
-
