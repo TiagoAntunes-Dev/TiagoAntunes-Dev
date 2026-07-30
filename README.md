@@ -7,8 +7,8 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Trabalhando no desenvolvimento de um **projeto de e-commerce (Loja online de doces)** e de uma **API REST para gerenciamento de filmes e watchlists**.
-- 🌱 Aprofundando meus estudos em **Node.js, Express, Prisma ORM e arquitetura de APIs REST** — com foco em autenticação segura (JWT), validação de dados (Zod) e modelagem de banco relacional (PostgreSQL).
+- 🔭 Trabalhando no desenvolvimento de uma **(Loja online de doces)** e de uma **API REST para gerenciamento de filmes e watchlists**.
+- 🌱 Aprofundando meus estudos em **Node.js, Express, Prisma ORM e arquitetura de APIs REST** — (JWT), (Zod) e (PostgreSQL).
 - 🎨 No frontend, sigo evoluindo com **Angular e TypeScript**, explorando componentes standalone e boas práticas de arquitetura.
 - 🎓 Cursando **Tecnologia em Sistemas para a Internet no Senac**.
 - 💡 Apaixonado por desenvolvimento Web, arquitetura de software e redes de computadores.
@@ -16,8 +16,6 @@
 
 <div align="center">
 <br>
-
-[![SukiDoces](https://img.shields.io/badge/SukiDoces_(In_Progress)-e92290?style=for-the-badge&logo=Vercel&logoColor=white)](https://sukidoces.vercel.app/)
 </div>
 
 ---
@@ -82,7 +80,7 @@
       <p>E-commerce full stack para uma loja de doces. Frontend em Angular, backend em Node.js/Express com Prisma ORM e MySQL, deploy distribuído (Vercel + Render + Aiven).</p>
       <b>Stack:</b> Angular · Node.js · Express · Prisma · MySQL
       <br>
-      <a href="https://sukidoces.vercel.app/">🔗 Ver projeto</a>
+      [![SukiDoces](https://img.shields.io/badge/SukiDoces_(In_Progress)-e92290?style=for-the-badge&logo=Vercel&logoColor=white)](https://sukidoces.vercel.app/)
     </td>
     <td width="50%">
       <h4>🎬 Movie Watchlist API</h4>
