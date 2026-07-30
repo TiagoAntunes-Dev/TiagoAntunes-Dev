@@ -16,6 +16,9 @@
 
 <div align="center">
 <br>
+
+[![SukiDoces](https://img.shields.io/badge/SukiDoces_(In_Progress)-e92290?style=for-the-badge&logo=Vercel&logoColor=white)](https://sukidoces.vercel.app/)
+  
 </div>
 
 ---
@@ -80,7 +83,7 @@
       <p>E-commerce full stack para uma loja de doces. Frontend em Angular, backend em Node.js/Express com Prisma ORM e MySQL, deploy distribuído (Vercel + Render + Aiven).</p>
       <b>Stack:</b> Angular · Node.js · Express · Prisma · MySQL
       <br>
-      [![SukiDoces](https://img.shields.io/badge/SukiDoces_(In_Progress)-e92290?style=for-the-badge&logo=Vercel&logoColor=white)](https://sukidoces.vercel.app/)
+      '
     </td>
     <td width="50%">
       <h4>🎬 Movie Watchlist API</h4>
