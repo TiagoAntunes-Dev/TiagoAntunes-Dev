@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Trabalhando no desenvolvimento de uma **(Loja online de doces)** e de uma **API REST para gerenciamento de filmes e watchlists**.
+- 🔭 Trabalhando no desenvolvimento de uma **(Loja online de doces)** e de uma **API REST para gerenciamento de filmes**.
 - 🌱 Aprofundando meus estudos em **Node.js, Express, Prisma ORM e arquitetura de APIs REST** — (JWT), (Zod) e (PostgreSQL).
 - 🎨 No frontend, sigo evoluindo com **Angular e TypeScript**, explorando componentes standalone e boas práticas de arquitetura.
 - 🎓 Cursando **Tecnologia em Sistemas para a Internet no Senac**.
