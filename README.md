@@ -8,8 +8,8 @@
 ### 👨‍💻 Sobre mim
 
 - 🔭 Trabalhando no desenvolvimento de uma **(Loja online de doces)** e de uma **API REST para gerenciamento de filmes**.
-- 🌱 Aprofundando meus estudos em **Node.js, Express, Java e arquitetura de APIs REST** — (JWT), (Spring Boot) e (PostgreSQL).
-- 🎨 No frontend, sigo evoluindo com **React-Native e TypeScript**, explorando componentes standalone e boas práticas de arquitetura.
+- 🌱 Aprofundando meus estudos em **NestJS, Java e arquitetura de APIs REST** — (Power BI) e (Spring Boot).
+- 📱 No mobile, sigo evoluindo com **React-Native e TypeScript**, explorando navegação, performance e boas práticas de arquitetura.
 - 🎓 Cursando **Tecnologia em Sistemas para a Internet no Senac**.
 - 💡 Apaixonado por desenvolvimento Web, arquitetura de software e redes de computadores.
 - ⚽ Fora do código, sempre acompanhando um bom futebol.
