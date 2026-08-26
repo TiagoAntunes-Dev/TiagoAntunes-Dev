@@ -117,8 +117,9 @@
 ### 🐍 Contribuições (Snake)
 <p align="center">
 
-<img src="game.gif" alt="GitHub Space Shooter" width="850px">
-</p>
+  <img src="https://raw.githubusercontent.com/TiagoAntunes-Dev/TiagoAntunes-Dev/output/github-contribution-grid-snake.svg" alt="Snake Graph">
+
+</p> 
 
 ---
 
