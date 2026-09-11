@@ -75,7 +75,7 @@
 
     </td>
     <td align="center">
-      <img src="Social Network.jpg" width="380px" alt="Desenvolvedor trabalhando">
+      <img src="./Social%20Network.jpg" width="380px" alt="Cena do filme A Rede Social">
     </td>
   </tr>
 </table>
