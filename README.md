@@ -94,7 +94,7 @@
 ### 🏆 Meus Troféus do GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TiagoAntunes-Dev&theme=dark&no-frame=true&margin-w=10" alt="Troféus do GitHub" />
+   <img src="./trophy.svg" alt="Troféus do GitHub" />
 </p>
 
 ---
