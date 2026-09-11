@@ -8,7 +8,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🔭 Trabalhando no desenvolvimento de uma **(Loja online de doces)** e de uma **API REST para gerenciamento de filmes**.
-- 🌱 Aprofundando meus estudos em **NestJS, Java e arquitetura de APIs REST** — (Power BI) e (Spring Boot).
+- 🌱 Aprofundando meus estudos em **NestJS, Java e arquitetura de APIs REST** — (Spring Boot).
 - 📱 No mobile, sigo evoluindo com **React-Native e TypeScript**, explorando navegação, performance e boas práticas de arquitetura.
 - 🎓 Cursando **Tecnologia em Sistemas para a Internet no Senac**.
 - 💡 Apaixonado por desenvolvimento Web, arquitetura de software e redes de computadores.
@@ -43,8 +43,6 @@
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 #### 🔐 Validação & Autenticação
 
@@ -69,8 +67,8 @@
 
 #### 🌱 Em Aprendizado
 <div>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Power_BI-F2CC8F?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
     <td align="center">
       <img src="./Social%20Network.jpg" width="380px" alt="Cena do filme A Rede Social">
