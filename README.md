@@ -72,8 +72,6 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Power_BI-F2CC8F?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
 </div>
-
-    </td>
     <td align="center">
       <img src="./Social%20Network.jpg" width="380px" alt="Cena do filme A Rede Social">
     </td>
