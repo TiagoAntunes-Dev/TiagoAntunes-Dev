@@ -82,14 +82,11 @@
       <h4>🍬 Suki Doces</h4>
       <p>E-commerce full stack para uma loja de doces. Frontend em Angular, backend em Node.js/Express com Prisma ORM e MySQL, deploy distribuído (Vercel + Render + Aiven).</p>
       <b>Stack:</b> Angular · Node.js · Express · Prisma · MySQL
-      <br>
-  <h>
     </td>
     <td width="50%">
       <h4>🎬 Movie Watchlist API</h4>
       <p>API REST para gerenciamento de catálogo de filmes e listas de interesse pessoais. Autenticação JWT via cookies httpOnly, validação de payloads com Zod, banco PostgreSQL modelado com Prisma.</p>
       <b>Stack:</b> Node.js · Express · Prisma · PostgreSQL · Zod · JWT
-    <h>
     </td>
   </tr>
 </table>
@@ -145,5 +142,3 @@
 </div>
 
 <!--END_SECTION:waka-->
-
-<div align="center">
