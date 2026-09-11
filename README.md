@@ -75,7 +75,7 @@
 
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmznelV/giphy.gif" width="380px" alt="Desenvolvedor trabalhando">
+      <img src="Social Network.jpg" width="380px" alt="Desenvolvedor trabalhando">
     </td>
   </tr>
 </table>
