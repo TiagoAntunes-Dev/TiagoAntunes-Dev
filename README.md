@@ -43,6 +43,8 @@
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 #### 🔐 Validação & Autenticação
 
@@ -65,9 +67,15 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
+#### 🌱 Em Aprendizado
+<div>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Power_BI-F2CC8F?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+</div>
+
   </td>
     <td align="center">
-      <img src="./Social%20Network.jpg" width="380px" alt="Cena do filme A Rede Social">
+      <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmznelV/giphy.gif" width="380px" alt="Desenvolvedor trabalhando">
     </td>
   </tr>
 </table>
@@ -78,22 +86,37 @@
 
 | Projeto | Descrição |
 |---------|-----------|
-| **🍬 Suki Doces** | E-commerce full stack para uma loja de doces. Frontend em Angular, backend em Node.js/Express com Prisma ORM e MySQL, deploy distribuído (Vercel + Render + Aiven).<br>**Stack:** Angular · Node.js · Express · Prisma · MySQL |
-| **🎬 Movie Watchlist API** | API REST para gerenciamento de catálogo de filmes e listas de interesse pessoais. Autenticação JWT via cookies httpOnly, validação de payloads com Zod, banco PostgreSQL modelado com Prisma.<br>**Stack:** Node.js · Express · Prisma · PostgreSQL · Zod · JWT |
+| **🍬 [Suki Doces](https://sukidoces.vercel.app/)** | E-commerce full stack para uma loja de doces. Frontend em Angular com design responsivo, backend em Node.js/Express com Prisma ORM e MySQL, deploy distribuído (Vercel + Render + Aiven). Implementação de autenticação, carrinho de compras e sistema de pedidos. **Stack:** Angular • TypeScript • Node.js • Express • Prisma • MySQL • JWT |
+| **🎬 Movie Watchlist API** | API REST para gerenciamento de catálogo de filmes e listas de interesse pessoais. Autenticação JWT via cookies httpOnly, validação de payloads com Zod, banco PostgreSQL e Prisma ORM. Implementa boas práticas de segurança e arquitetura limpa. **Stack:** Node.js • Express • PostgreSQL • Prisma • Zod • JWT |
 
 ---
 
 ### 🏆 Meus Troféus do GitHub
 
 <p align="center">
-  <img src="./trophy.svg" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TiagoAntunes-Dev&theme=dark&no-frame=true&margin-w=10" alt="Troféus do GitHub" />
 </p>
+
+---
+
+### 📈 Atividades Recentes
+
+- 🔨 Desenvolvendo novas features no Suki Doces (integração de pagamentos)
+- 📚 Estudando NestJS e arquitetura em camadas (Clean Architecture)
+- 🚀 Planejando migração da Movie Watchlist API para NestJS
+- 💻 Explorando React Native para mobile
 
 ---
 
 ### 📊 Minhas Estatísticas
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TiagoAntunes-Dev&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoAntunes-Dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoAntunes-Dev&theme=dark&hide_border=false" alt="Dias Seguidos Codando" />
@@ -114,6 +137,12 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
+
+---
+
+### 💬 Vamos Conversar?
+
+Tenho interesse em **projetos full stack, arquitetura de APIs, desenvolvimento mobile e open source**. Se você está buscando um desenvolvedor para colaborar ou quer discutir sobre tecnologia, entre em contato! 🚀
 
 ---
 
