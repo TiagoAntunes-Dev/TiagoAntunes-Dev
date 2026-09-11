@@ -101,7 +101,6 @@
 
 ### 📈 Atividades Recentes
 
-- 🔨 Desenvolvendo novas features no Suki Doces (integração de pagamentos)
 - 📚 Estudando NestJS e arquitetura em camadas (Clean Architecture)
 - 🚀 Planejando migração da Movie Watchlist API para NestJS
 - 💻 Explorando React Native para mobile
