@@ -131,7 +131,7 @@
 
 ### 💬 Vamos Conversar?
 
-Tenho interesse em **projetos full stack, arquitetura de APIs, desenvolvimento mobile e open source**. Se você está buscando um desenvolvedor para colaborar ou quer discutir sobre tecnologia, e[...]
+Tenho interesse em **projetos full stack, arquitetura de APIs, desenvolvimento mobile e open source**. Se você está buscando um desenvolvedor para colaborar ou quer discutir sobre tecnologia, só me dar um toque.
 
 ---
 
