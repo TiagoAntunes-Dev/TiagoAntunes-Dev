@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2CC8F?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
 </div>
 
-  </td>
+    </td>
     <td align="center">
       <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmznelV/giphy.gif" width="380px" alt="Desenvolvedor trabalhando">
     </td>
@@ -86,8 +86,8 @@
 
 | Projeto | Descrição |
 |---------|-----------|
-| **🍬 [Suki Doces](https://sukidoces.vercel.app/)** | E-commerce full stack para uma loja de doces. Frontend em Angular com design responsivo, backend em Node.js/Express com Prisma ORM e MySQL, deploy distribuído (Vercel + Render + Aiven). Implementação de autenticação, carrinho de compras e sistema de pedidos. **Stack:** Angular • TypeScript • Node.js • Express • Prisma • MySQL • JWT |
-| **🎬 Movie Watchlist API** | API REST para gerenciamento de catálogo de filmes e listas de interesse pessoais. Autenticação JWT via cookies httpOnly, validação de payloads com Zod, banco PostgreSQL e Prisma ORM. Implementa boas práticas de segurança e arquitetura limpa. **Stack:** Node.js • Express • PostgreSQL • Prisma • Zod • JWT |
+| **🍬 [Suki Doces](https://sukidoces.vercel.app/)** | E-commerce full stack para uma loja de doces. Frontend em Angular com design responsivo, backend em Node.js/Express com Prisma ORM e MySQL,[...]
+| **🎬 Movie Watchlist API** | API REST para gerenciamento de catálogo de filmes e listas de interesse pessoais. Autenticação JWT via cookies httpOnly, validação de payloads com Zod, banco [...]
 
 ---
 
@@ -141,7 +141,7 @@
 
 ### 💬 Vamos Conversar?
 
-Tenho interesse em **projetos full stack, arquitetura de APIs, desenvolvimento mobile e open source**. Se você está buscando um desenvolvedor para colaborar ou quer discutir sobre tecnologia, entre em contato! 🚀
+Tenho interesse em **projetos full stack, arquitetura de APIs, desenvolvimento mobile e open source**. Se você está buscando um desenvolvedor para colaborar ou quer discutir sobre tecnologia, e[...]
 
 ---
 
