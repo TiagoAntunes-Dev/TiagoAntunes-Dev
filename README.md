@@ -89,7 +89,7 @@
       <h4>🎬 Movie Watchlist API</h4>
       <p>API REST para gerenciamento de catálogo de filmes e listas de interesse pessoais. Autenticação JWT via cookies httpOnly, validação de payloads com Zod, banco PostgreSQL modelado com Prisma.</p>
       <b>Stack:</b> Node.js · Express · Prisma · PostgreSQL · Zod · JWT
-      <h>
+    <h>
     </td>
   </tr>
 </table>
