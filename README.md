@@ -110,14 +110,6 @@
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiagoAntunes-Dev&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoAntunes-Dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoAntunes-Dev&theme=dark&hide_border=false" alt="Dias Seguidos Codando" />
 </div>
 
