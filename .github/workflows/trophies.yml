@@ -14,11 +14,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        uses: ryo-ma/github-profile-trophy@v2
         with:
           username: TiagoAntunes-Dev
-          file: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: flat
+          margin-w: 0
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
