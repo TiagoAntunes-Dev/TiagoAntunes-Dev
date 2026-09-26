@@ -17,7 +17,8 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: TiagoAntunes-Dev
-          svg_path: trophy.svg
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
           theme: flat
 
       - name: Commit and Push
