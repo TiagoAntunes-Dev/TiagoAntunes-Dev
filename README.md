@@ -46,7 +46,6 @@
 
 #### 🔐 Validação & Autenticação
 
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white">
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 
 #### 🗄️ Bancos de Dados & ORM
