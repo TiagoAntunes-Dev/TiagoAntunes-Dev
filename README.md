@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> 
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Tiago+Antunes!;Desenvolvedor+em+Formação;Full+Stack+%7C+Backend+%7C+Frontend+%7C+Mobile" alt="Typing SVG" />
-</div>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px">
+  Olá! Sou Tiago Antunes
 </h1>
 
 <h3 align="center">Desenvolvedor Full Stack em Formação | Estudante no Senac</h3>
