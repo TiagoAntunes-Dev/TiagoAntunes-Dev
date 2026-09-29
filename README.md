@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px">
-  Olá! Meu nome é Tiago Antunes
+  Prazer, sou Tiago Antunes!
 </h1>
 
 <h3 align="center">Desenvolvedor Full Stack em Formação | Estudante no Senac</h3>
