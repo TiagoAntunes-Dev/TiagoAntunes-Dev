@@ -79,8 +79,12 @@
 ### 🚀 Projetos em Destaque
 
 <p align="center">
-  <a href="https://sukidoces.vercel.app/"><strong>Suki Doces</strong></a> ·
-  <a href="https://github.com/TiagoAntunes-Dev/Cinema-service"><strong>Cinema API</strong></a>
+  <a href="https://sukidoces.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Suki%20Doces-FF4FA0?style=for-the-badge&logo=vercel&logoColor=white" alt="Suki Doces" />
+  </a>
+  <a href="https://github.com/TiagoAntunes-Dev/Cinema-service" target="_blank">
+    <img src="https://img.shields.io/badge/Cinema%20API-00B7FF?style=for-the-badge&logo=github&logoColor=white" alt="Cinema API" />
+  </a>
 </p>
 
 ---
