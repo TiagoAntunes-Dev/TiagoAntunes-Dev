@@ -78,10 +78,10 @@
 
 ### 🚀 Projetos em Destaque
 
-| Projeto | Descrição |
-|---------|-----------|
-| **[Suki Doces](https://sukidoces.vercel.app/)** | E-commerce full stack para uma loja de doces. Frontend em Angular com design responsivo, backend em Node.js/Express com Prisma ORM e MySQL,[...]
-| **[Cinema API](https://github.com/TiagoAntunes-Dev/Cinema-service)** | Serviço de gerenciamento de cinema com API REST. Desenvolvido com tecnologias modernas para controle de filmes, sessões e reservas,[...]
+<p align="center">
+  <a href="https://sukidoces.vercel.app/"><strong>Suki Doces</strong></a> ·
+  <a href="https://github.com/TiagoAntunes-Dev/Cinema-service"><strong>Cinema API</strong></a>
+</p>
 
 ---
 
