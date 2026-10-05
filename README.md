@@ -81,7 +81,7 @@
 | Projeto | Descrição |
 |---------|-----------|
 | **🍬 [Suki Doces](https://sukidoces.vercel.app/)** | E-commerce full stack para uma loja de doces. Frontend em Angular com design responsivo, backend em Node.js/Express com Prisma ORM e MySQL,[...]
-| **🎬 Movie Watchlist API** | API REST para gerenciamento de catálogo de filmes e listas de interesse pessoais. Autenticação JWT via cookies httpOnly, validação de payloads com Zod, banco [...]
+| **🎬 [Cinema-service](https://github.com/TiagoAntunes-Dev/Cinema-service)** | Serviço de gerenciamento de cinema com API REST. Desenvolvido com tecnologias modernas para controle de filmes, sessões e reservas,[...]
 
 ---
 
@@ -127,7 +127,7 @@
 
 ### 💬 Vamos Conversar?
 
-Tenho interesse em **projetos full stack, arquitetura de APIs, desenvolvimento mobile e open source**. Se você está buscando um desenvolvedor para colaborar ou quer discutir sobre tecnologia, só me dar um toque.
+Tenho interesse em **projetos full stack, arquitetura de APIs, desenvolvimento mobile e open source**. Se você está buscando um desenvolvedor para colaborar ou quer discutir sobre tecnologia, s[...]
 
 ---
 
